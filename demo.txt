@@ -1,2 +1,3 @@
-﻿Hola, hay alguien ahí?
+#Hola, hay alguien ahí?
 - Yo, necesitas algo hijo?
+#Sí, puedes ayudarme, mi computadora no enciende.
